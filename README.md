@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,blender,git,bootstrap,codepen,bots,figma,flutter,idea,ai,md,nginx,ps,powershell,pr,unity,unreal,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,git,bootstrap,codepen,idea,ai,md,ps,powershell,unreal,vscode" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bash,c,cs,cpp,html,css,js,docker,dotnet,electron,java,python,kotlin,mongodb,mysql,nextjs,nodejs,php,react,rust,swift,tailwind,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,java,mongodb,mysql,php" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,discord,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=discord,github,netlify,instagram,linkedin" />
   </a>
 </p>
 
