@@ -1,9 +1,8 @@
-- 🔭 I’m currently working on Openjourney
-- 🌱 I’m currently learning Rust
-- 👨‍💻 My Full bio available at [ Coming soon... ]
+- 🔭 I’m currently working at Eagle Graphics
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything
-- 📫 How to reach me sandarudev@icloud.com
-- ⚡ Fun fact I'm obsessed with Disney movies
+- 📫 How to reach me ravishkashashira@gmail.com
+- ⚡ Fun fact I'm obsessed with weeknd songs
 
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandarutharunethShashira2004&label=Profile%20views&color=0e75b6&style=flat" alt="Shashira2004" /> </p>
