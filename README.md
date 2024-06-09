@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything
 - 📫 How to reach me ravishkashashira@gmail.com
-- ⚡ Fun fact I'm obsessed with weeknd songs
+- XO I'm obsessed with weeknd songs
 
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandarutharunethShashira2004&label=Profile%20views&color=0e75b6&style=flat" alt="Shashira2004" /> </p>
