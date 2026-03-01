@@ -7,9 +7,8 @@ Shashira Ravishka
   <img src="https://github.com/Shashira2004.png" alt="Shashira Ravishka" width="150"/>
 </p>
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzduY3BmN3NzN2N1YWhuZjE1d2d1amxleWZ2cDVzOTA4YmJzeWZ4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)" alt="Animated" width="150"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix Animation" width="300"/>
 </p>
-
   
 
 <h3 align="left">Tools & Technologies:</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,git,bootstrap,codepen,idea,ai,md,ps,powershell,unreal,vscode" /> </p> --- <h3 align="left">Programming Languages:</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,java,mongodb,mysql,php" /> </p> --- <h3 align="left">Online Presence:</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=discord,github,netlify,instagram,linkedin" /> </p> --- <h3 align="left">GitHub Stats:</h3> <p align="center"> <a href="http://www.github.com/Shashira2004"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashira2004&stroke=a855f7&background=000000&ring=ec4899&fire=ec4899&currStreakNum=a855f7&currStreakLabel=ec4899&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /> </a> </p> <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app//api?username=Shashira2004&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app//api/top-langs/?username=Shashira2004&layout=compact&langs_count=8&theme=tokyonight" /> </p>
