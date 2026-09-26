@@ -1,6 +1,6 @@
 Shashira Ravishka
 
-🔹 Founder & CEO at Skytrix | First Class BSc (Hons) Computer Science graduate – SLIIT City Uni (University of Bedfordshire) | ICT Tutor
+🔹 Founder at Skytrix | First Class BSc (Hons) Computer Science graduate – SLIIT City Uni (University of Bedfordshire) 
 
 🔹 Contact: ravishkashashira@gmail.com
 
